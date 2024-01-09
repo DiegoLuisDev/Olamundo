@@ -1,2 +1,3 @@
-# Olamundo
- Primeiro repositório do Curso em vido
+# Olá, mundo
+ Primeiro repositório do Curso em video
+Repositótio criado
